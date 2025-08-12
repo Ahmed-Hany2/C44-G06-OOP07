@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            // Question (1, 2)
+            // Question (1, 2, 3)
 
             Console.WriteLine("Add: " + Maths.Add(5, 6));
             Console.WriteLine("Subtract: " + Maths.Subtract(5, 3));
